@@ -2,7 +2,7 @@ import { FC, useState } from "react";
 
 import { Box, Button, Flex } from "@chakra-ui/react";
 import { configs } from "shared/content/Content";
-import { InTheNewsCard } from "pages/in-the-news/other-project-card/InTheNewsCard";
+import { OtherProjectCard } from "pages/in-the-news/in-the-news-card/InTheNewsCard";
 import { ChevronDownIcon, ChevronUpIcon } from "utils/Icons";
 
 const initialCount = 3;
@@ -13,7 +13,7 @@ export const OtherProjects: FC = () => {
 
     const scrollToElement = (idx: number) => {
         const elementTop = document
-            .getElementById(`in-the-news-card-${configs.intheNews[idx].id}`)
+            .getElementById(`other-project-card-${configs.otherProjects[idx].id}`)
             ?.getBoundingClientRect().top;
 
         if (elementTop) {
