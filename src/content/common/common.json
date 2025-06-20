@@ -1,22 +1,22 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Benjamin Jopen",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "BJO",
+        "desktop": "Ben Jopen"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
-    "audioFile": "/assets/name-pro.mp3",
-    "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
+    "mainPicture": "/assets/ben.webp",
+    "mainPictureJPG": "/assets/ben.jpeg",
+    "pronunciation": "/ben/",
+    "audioFile": "",
+    "cssVarPrefix": "bj",
+    "email": "benjamin.jopen@icloud.com",
+    "linkedin": "https://www.linkedin.com/in/benjamin-jopen/",
     "github": "https://github.com/hrishikeshpaul",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/benjamin-jopen/"
         },
         {
             "type": "github",
@@ -24,7 +24,7 @@
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:benjamin.jopen@icloud.com"
         }
     ]
 }
