@@ -3,9 +3,9 @@ Moingiorno 👋 I'm building **brands for a new era** at [Odaline](https://odali
 
 Ich vereine **Kreativität mit Strategie**. Meine Erfahrung erlaubt es mir, ganzheitlich zu wirken.
 
--   Brand Building
+-   Brand Building & Positioning
 -   Creative Direction
--   Strategic Positioning
--   Social Media
+-   AI Strategy & Implementation
+-   Digital Culture & Social
 -   Political Communication
--   Cultural Impact
+-   Cultural Foresight & Impact
