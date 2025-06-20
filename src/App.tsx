@@ -15,6 +15,13 @@ const PageHeader = lazy(() =>
     import("shared/page-header/PageHeader").then((module) => ({ default: module.PageHeader })),
 );
 const Footer = lazy(() => import("shared/footer/Footer").then((module) => ({ default: module.Footer })));
+
+const InTheNews = lazy(() =>
+  import("pages/in-the-news/InTheNews").then((module) => ({
+    default: module.InTheNews,
+  })),
+);
+
 const FeaturedProjects = lazy(() =>
     import("pages/featured-projects/FeaturedProjects").then((module) => ({
         default: module.FeaturedProjects,
@@ -45,6 +52,11 @@ export const App: FC = () => {
 
                 <Box mt={{ base: "96px", md: NavbarHeight }}>
                     <Landing />
+			<Box id="news-section" mt={20}>
+ 			 <PageHeader label="In the News" />
+  			<InTheNews />
+			</Box>
+
                     <Box id={WorkPageId}>
                         <PageHeader label="Featured Projects" />
                         <FeaturedProjects />

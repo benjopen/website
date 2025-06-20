@@ -105,7 +105,7 @@ export const MenuDrawer: FC<Props> = ({ onSectionClick, currentPage, ...props })
                                 fontWeight="600"
                                 fontSize="2xl"
                             >
-                                Resume
+                                🤝 Linkedin 🤝
                             </Button>
                         </VStack>
                         <Flex justifyContent="center" mt="16">

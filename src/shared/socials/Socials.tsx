@@ -26,7 +26,7 @@ export const Socials: FC<Props> = ({ resume = true, exclude, delay = 800 }) => {
         <HStack spacing="5">
             {resume && (
                 <Button data-aos="fade" data-aos-delay={delay} size="lg" borderRadius="xl" mr="2" onClick={onResumeOpen}>
-                    Resume
+                    🤝 Linkedin 🤝
                 </Button>
             )}
             {configs.common.socials.map(
