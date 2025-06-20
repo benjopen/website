@@ -17,7 +17,7 @@ interface Props {
     jpg: string;
 }
 
-export const OtherProjectCard: FC<Props> = ({ id, title, demo, github, tags, description, readMore, image, jpg }) => {
+export const InTheNewsCard: FC<Props> = ({ id, title, demo, github, tags, description, readMore, image, jpg }) => {
     return (
         <Flex
             alignItems={{ base: "flex-start", lg: "center" }}
