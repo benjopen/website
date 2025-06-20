@@ -16,6 +16,7 @@ import AboutMd from "content/about/about.md";
 export const configs = {
     common,
     landing,
+    inTheNews,
     featuredProjects,
     otherProjects,
     about,
