@@ -2,13 +2,13 @@ import { FC, useState } from "react";
 
 import { Box, Button, Flex } from "@chakra-ui/react";
 import { configs } from "shared/content/Content";
-import { OtherProjectCard } from "pages/in-the-news/in-the-news-card/InTheNewsCard";
+import { InTheNewsCard } from "pages/in-the-news/in-the-news-card/InTheNewsCard";
 import { ChevronDownIcon, ChevronUpIcon } from "utils/Icons";
 
 const initialCount = 3;
 const incrementor = 3;
 
-export const OtherProjects: FC = () => {
+export const InTheNews: FC = () => {
     const [count, setCount] = useState<number>(initialCount);
 
     const scrollToElement = (idx: number) => {
@@ -37,7 +37,7 @@ export const OtherProjects: FC = () => {
     return (
         <Box>
             {configs.otherProjects.map((project, idx) => (
-                <div key={project.id}>{idx < count && <OtherProjectCard key={project.id} {...project} />}</div>
+                <div key={project.id}>{idx < count && <InTheNewsCard key={project.id} {...project} />}</div>
             ))}
             <Flex justifyContent="center" py="8" display={configs.otherProjects.length > 3 ? "flex" : "none"}>
                 {count < configs.otherProjects.length ? (
