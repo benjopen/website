@@ -1,4 +1,5 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Moingiorno 👋 I'm building _brands for a new era_ at [Odaline](https://odaline.de/), the new lead agency. Say what? Kommunikation verändert sich schneller und umfassender als je zuvor. Um diesen Wandel zu meistern, braucht es nicht nur innovative Antworten, sondern auch ein Agentur-Setup, das darauf vorbereitet ist.
+
 
 I'm currently working with,
 
