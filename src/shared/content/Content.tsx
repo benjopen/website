@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 
 import common from "content/common/common.json";
 import landing from "content/landing/landing-config.json";
+import inTheNews from "content/in-the-news/in-the-news-config.json";
 import featuredProjects from "content/featured-projects/featured-projects-config.json";
 import otherProjects from "content/other-projects/other-projects-config.json";
 import about from "content/about/about-config.json";
