@@ -13,7 +13,7 @@ export const InTheNews: FC = () => {
 
     const scrollToElement = (idx: number) => {
         const elementTop = document
-            .getElementById(`other-project-card-${configs.otherProjects[idx].id}`)
+            .getElementById(`in-the-news-card-${configs.inTheNews[idx].id}`)
             ?.getBoundingClientRect().top;
 
         if (elementTop) {
@@ -36,11 +36,11 @@ export const InTheNews: FC = () => {
 
     return (
         <Box>
-            {configs.otherProjects.map((project, idx) => (
+            {configs.inTheNews.map((project, idx) => (
                 <div key={project.id}>{idx < count && <InTheNewsCard key={project.id} {...project} />}</div>
             ))}
-            <Flex justifyContent="center" py="8" display={configs.otherProjects.length > 3 ? "flex" : "none"}>
-                {count < configs.otherProjects.length ? (
+            <Flex justifyContent="center" py="8" display={configs.inTheNews.length > 3 ? "flex" : "none"}>
+                {count < configs.inTheNews.length ? (
                     <Button rightIcon={<ChevronDownIcon />} variant="link" onClick={onShowMore}>
                         Show More
                     </Button>
