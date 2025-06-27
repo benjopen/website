@@ -1,5 +1,5 @@
 {
-    "educations111": [
+    "educations": [
         {
             "id": "edu-1",
             "school": "Indiana University111",
@@ -21,7 +21,7 @@
             ]
         }
     ],
-    "experiences2222": [
+    "experiences": [
         {
             "id": "exp-1",
             "company": "Reputation222",
