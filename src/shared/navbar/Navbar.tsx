@@ -36,7 +36,7 @@ export const Navbar: FC = () => {
                                 data-aos="fade"
                                 data-aos-delay="200"
                             >
-                                Work
+                                News
                             </Button>
                             <Button
                                 variant="link"
@@ -48,7 +48,7 @@ export const Navbar: FC = () => {
                                 data-aos="fade"
                                 data-aos-delay="300"
                             >
-                                Work
+                                Projects
                             </Button>
                             <Button
                                 variant="link"
@@ -60,7 +60,7 @@ export const Navbar: FC = () => {
                                 data-aos="fade"
                                 data-aos-delay="300"
                             >
-                                About
+                                About & CV
                             </Button>
                         </HStack>
                         <ColorModeButton />
