@@ -6,10 +6,10 @@ import { ColorHues } from "@chakra-ui/react";
 export const PrimaryColors: ColorHues = {
     50: "#FF9597",
     100: "#FD6568",
-    200: "#c0c0c0",
+    200: "#59e77b",
     300: "#F21115",
     400: "#E90004",
-    500: "#DD0004",
+    500: "#59e77b",
     600: "#CD0003",
     700: "#B80003",
     800: "#A00003",
