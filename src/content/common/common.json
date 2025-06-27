@@ -11,17 +11,19 @@
     "cssVarPrefix": "bj",
     "email": "benjamin.jopen@icloud.com",
     "linkedin": "https://www.linkedin.com/in/benjamin-jopen/",
+"instagram": "https://www.instagram.com/benjopen/",
     "github": "https://github.com/hrishikeshpaul",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
+            "type": "instagram",
+            "link": "https://www.instagram.com/benjopen/"
+        },
+        {
             "type": "linkedin",
             "link": "https://www.linkedin.com/in/benjamin-jopen/"
         },
-        {
-            "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
-        },
+
         {
             "type": "mail",
             "link": "mailto:benjamin.jopen@icloud.com"
