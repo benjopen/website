@@ -12,7 +12,7 @@
         },
         {
             "id": "edu-2",
-            "school": "Manipal University",
+            "school": "Manipal University222",
             "degree": "Bachelors in Computer Engineering",
             "duration": "Aug 2015 - Jul 2019",
             "content": [
@@ -24,8 +24,8 @@
     "experiences2222": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
+            "company": "Reputation222",
+            "position": "Software Engineer (Frontend)222",
             "duration": "Jun 2020 - Jun 2021",
             "description": [
                 "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
