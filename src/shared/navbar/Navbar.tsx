@@ -6,7 +6,7 @@ import { configs } from "shared/content/Content";
 import { LogoType } from "shared/navbar/logo-type/LogoType";
 import { bgDark, bgLight } from "theme";
 import { onResumeOpen } from "utils/Functions";
-import { AboutPageId, useScroll, WorkPageId } from "utils/useScroll";
+import { AboutPageId, useScroll, WorkPageId, NewsPageId } from "utils/useScroll";
 import { MenuDrawer } from "./drawer/Drawer";
 import { ColorModeButton } from "shared/color-mode-button/ColorModeButton";
 
@@ -31,10 +31,22 @@ export const Navbar: FC = () => {
                                 color={navItemColor}
                                 textDecoration="underline"
                                 textDecorationThickness="2px"
-                                textDecorationColor={currentPage === WorkPageId ? "primary.500" : "transparent"}
-                                onClick={() => toSection(WorkPageId)}
+                                textDecorationColor={currentPage === NewsPageId ? "primary.500" : "transparent"}
+                                onClick={() => toSection(NewsPageId)}
                                 data-aos="fade"
                                 data-aos-delay="200"
+                            >
+                                Work
+                            </Button>
+                            <Button
+                                variant="link"
+                                color={navItemColor}
+                                textDecoration="underline"
+                                textDecorationThickness="2px"
+                                textDecorationColor={currentPage === WorkPageId ? "underline" : "none"}
+                                onClick={() => toSection(WorkPageId)}
+                                data-aos="fade"
+                                data-aos-delay="300"
                             >
                                 Work
                             </Button>
@@ -49,9 +61,6 @@ export const Navbar: FC = () => {
                                 data-aos-delay="300"
                             >
                                 About
-                            </Button>
-                            <Button variant="link" onClick={onResumeOpen} data-aos="fade" data-aos-delay="400">
-                                CV
                             </Button>
                         </HStack>
                         <ColorModeButton />

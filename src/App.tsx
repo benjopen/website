@@ -4,7 +4,7 @@ import { Box, Container, Center, Spinner } from "@chakra-ui/react";
 import AOS from "aos";
 
 import { NavbarHeight } from "theme";
-import { AboutPageId, WorkPageId } from "utils/useScroll";
+import { AboutPageId, WorkPageId, NewsPageId } from "utils/useScroll";
 
 import "./App.scss";
 import "aos/dist/aos.css";
@@ -52,7 +52,7 @@ export const App: FC = () => {
 
                 <Box mt={{ base: "96px", md: NavbarHeight }}>
                     <Landing />
-			<Box id="news-section" mt={20}>
+			<Box id={NewsPageId} mt={20}>
  			 <PageHeader label="In the News" />
   			<InTheNews />
 			</Box>
