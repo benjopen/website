@@ -1,13 +1,12 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger TEST",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
+        "id": "2506_vodafone-elevators",
+        "title": "Der Beginn einer neuen Ära: Performance mit Personality",
+        "year": "Juni 2025",
+        "tags": ["Case", "Vodafone", "Performance", "Creator"],
         "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/in-the-news/post.webp",
+"readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",        
+"image": "/assets/in-the-news/post.webp",
         "jpg": "/assets/in-the-news/post.jpeg"
 
     },
