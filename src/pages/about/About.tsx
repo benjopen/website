@@ -64,9 +64,11 @@ export const About: FC = () => {
                     <Education />
                 </Box>
             </Flex>
-           /* <Box pt="16">
-                <Skills />
-            </Box> */
+           {/*
+		<Box pt="16">
+    			<Skills />
+		</Box>
+	*/}
             <Box pt="16">
                 <Blog />
             </Box>
