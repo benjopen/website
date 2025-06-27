@@ -58,18 +58,18 @@ export const About: FC = () => {
                 justifyContent="space-between"
             >
                 <Box flex="0.6" flexShrink="0" overflow="hidden">
-                   <Experience /> 
+                    <Education />
                 </Box>
                 <Box flex="0.6" overflow="hidden">
-                    <Education />
+                    <Experience />
                 </Box>
             </Flex>
             <Box pt="16">
                 <Skills />
             </Box>
-           /* <Box pt="16">
+            <Box pt="16">
                 <Blog />
-            </Box> */
+            </Box>
         </Box>
     );
 };
