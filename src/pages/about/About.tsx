@@ -68,10 +68,11 @@ export const About: FC = () => {
 		<Box pt="16">
     			<Skills />
 		</Box>
-	*/}
+	
             <Box pt="16">
                 <Blog />
             </Box>
+	*/}
         </Box>
     );
 };
