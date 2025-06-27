@@ -24,11 +24,22 @@ interface Props {
 export const Socials: FC<Props> = ({ resume = true, exclude, delay = 800 }) => {
     return (
         <HStack spacing="5">
-            {resume && (
- /*               <Button data-aos="fade" data-aos-delay={delay} size="lg" borderRadius="xl" mr="2" onClick={onResumeOpen}>
-                    🤝 Linkedin 🤝
-                </Button> */
-            )}
+{resume && (
+  <>
+{/* 
+{resume && (
+    <Button
+      data-aos="fade"
+      data-aos-delay={delay}
+      size="lg"
+      borderRadius="xl"
+      mr="2"
+      onClick={onResumeOpen}
+    >
+      🤝 Linkedin 🤝
+    </Button>
+)}
+*/}
             {configs.common.socials.map(
                 (social, idx) =>
                     !exclude?.includes(social.type) && (

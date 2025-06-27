@@ -41,7 +41,6 @@ export const Navbar: FC = () => {
                             <Button
                                 variant="link"
                                 color={navItemColor}
-                                textDecoration="underline"
                                 textDecorationThickness="2px"
                                 textDecorationColor={currentPage === WorkPageId ? "underline" : "none"}
                                 onClick={() => toSection(WorkPageId)}
