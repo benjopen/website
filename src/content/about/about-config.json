@@ -23,10 +23,10 @@
     ],
     "experiences": [
         {
-            "id": "exp-1",
-            "company": "Reputation222",
-            "position": "Software Engineer (Frontend)222",
-            "duration": "Jun 2020 - Jun 2021",
+            "id": "odageil",
+            "company": "ODALINE Collective",
+            "position": "Director Creative Strategy",
+            "duration": "seit 01/2025",
             "description": [
                 "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
                 "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
@@ -34,14 +34,16 @@
             ]
         },
         {
-            "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
+            "id": "heimattbwa",
+            "company": "HeimatTBWA\",
+            "position": "Head of Content & Social Media",
+            "duration": "05/2023 – 01/2025",
             "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
+                "Nach dem Zusammenschluss von Heimat, Berlin und TBWA\ Düsseldorf Bündelung des gesamten Social Media Angebots an beiden Agentur-Standorten Berlin und Düsseldorf. Leitung und Ausbau des Social Media Teams, nun wieder unter dem neuen Agenturnamen HeimatTBWA. Als erstes Team arbeiten wir standortübergreifend.",
+                "Teil der AI Taskforce der TBWA-Gruppe in Deutschland, enge Kooperation mit allen Schwesteragenturen innerhalb der deutschen Gruppe, Integration in das internationale Production und auch Social Media Collective der TBWA Worldwide.",
+                "Kunden & Projekte: WC Frisch (TikTok), HORNBACH, Trolli, Consorsbank, Bonduelle, DEVK, TÜV Rheinland, Perwoll, Schauma, ZEIN pharma, Nissan, GRÜNE Bundesverband (Europawahl)",
+                "Positionierung unseres Social Media first Angebots innerhalb der total Brand Experience. Aufbau von passenden Social Media Produkten im Rahmen der NB-Gewinnung.",
+                "Unsere Services: Social Media Strategie, Always-On-Content, Content Production im eigenen Studio, Social Unit / Second Unit, Paid Social & Social Performance, Social Ads, Aufbau eigener Creator / Adfluencer, Influencer Marketing & Management, (proactive) Community Management."
             ]
         },
         {
