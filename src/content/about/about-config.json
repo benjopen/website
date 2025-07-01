@@ -39,7 +39,8 @@
             "position": "Head of Content & Social Media",
             "duration": "05/2023 – 01/2025",
             "description": [
-                "Nach dem Zusammenschluss von Heimat, Berlin und TBWA Düsseldorf Bündelung des gesamten Social Media Angebots an beiden Agentur-Standorten Berlin und Düsseldorf. Leitung und Ausbau des Social Media Teams, nun wieder unter dem neuen Agenturnamen HeimatTBWA. Als erstes Team arbeiten wir standortübergreifend.",
+                "Bündelung des gesamten Social Media Angebots an beiden Agentur-Standorten Berlin und Düsseldorf nach dem Zusammenschluss von Heimat Berlin und TBWA Düsseldorf.",
+                "Leitung und Ausbau des Social Media Teams, nun wieder unter dem neuen Agenturnamen HeimatTBWA. Als erstes Team arbeiten wir standortübergreifend.",
                 "Teil der AI Taskforce der TBWA-Gruppe in Deutschland, enge Kooperation mit allen Schwesteragenturen innerhalb der deutschen Gruppe, Integration in das internationale Production und auch Social Media Collective der TBWA Worldwide.",
                 "Kunden & Projekte: WC Frisch (TikTok), HORNBACH, Trolli, Consorsbank, Bonduelle, DEVK, TÜV Rheinland, Perwoll, Schauma, ZEIN pharma, Nissan, GRÜNE Bundesverband (Europawahl)",
                 "Positionierung unseres Social Media first Angebots innerhalb der total Brand Experience. Aufbau von passenden Social Media Produkten im Rahmen der NB-Gewinnung.",
@@ -47,13 +48,37 @@
             ]
         },
         {
-            "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
+            "id": "tbwadus3",
+            "company": "TBWA Düsseldorf",
+            "position": "Head of Content & Social Media",
+            "duration": "11/2022 – 01/2025",
             "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Gründung und Leitung einer eigenen Social Media Unit „BOLT – vertical content driven by culture“ unter dem Dach von TBWA Düsseldorf"
+            ]
+        },
+        {
+            "id": "tbwadus2",
+            "company": "TBWA Düsseldorf",
+            "position": "Director Digital Communications & Data Analytics",
+            "duration": "03/2020 – 10/2022",
+            "description": [
+                "Nach dem Verkauf von Unitymedia an Vodafone habe ich ein neues Team aufgebaut und dieses von 2 auf über 14 Team-Mitglieder wachsen lassen. Von großen Markenkampagnen gedacht bis zum Always on Content. Mit einem eigenen kleinen Studio im Rücken.",
+                "Dabei habe ich das Social Media Geschäft für die Agentur gestartet, aber auch viele Marken – darunter zahlreiche New Business Gewinne – ganzheitlich betreut. Von Social Media bis zum großen TV-Spot war alles dabei.",
+                "Daneben habe ich viele Sonder-Projekte für die Agentur entworfen und geleitet, u.A.: Produkt-Innovations-Workshop für Bonduelle DACH + Benelux, Web3 Strategie für Henkel, internationale Creator-Kampagne für Douglas, die erste eigene Kampagne für TikTok in Europa, eine Community-Plattform für Love Nature (Henkel), Wahlkämpfe für die Grünen NRW und Hessen.",
+                "Zu den Kunden gehören unter anderem Bonduelle (New Business), ARLA (New Business), got2b, Love Nature, die GRÜNEN NRW (New Business), die GRÜNEN Hessen (New Business), Teekanne, Perwoll, WW, Douglas, Pril, Somat, WC Frisch.",
+                "Aufgaben: Pitch-Präsentation, Kampagnen-Entwicklung (Digital, Radio, KV, Social Ads), Always On Content, Produkt-Innovations-Strategien, Marken-Strategien, Social Ads, Kontakte zu Dienstleistern"
+            ]
+        },
+        {
+            "id": "tbwadus1",
+            "company": "TBWA Düsseldorf",
+            "position": "Manager Digital Communications & Data Analytics",
+            "duration": "04/2018 – 02/2022",
+            "description": [
+                "Unitymedia: Digitale Strategie, Social, Content Marketing, aber auch klassische 360° Kampagnen von Print bis Radio, Live- & Messe-Strategie und Brand/Tonality Book. Identifikation von kulturellen Trends & AdHoc Content und dafür die Etablierung einer redaktionellen Arbeitsweise zw. Agentur und Kunden. Konzept, Launch und Lead des Content Hubs „Universe“ inkl. SEO. Launch des Giphy Channels mit über 10 Millionen Views, Setup und Launch von DCO.",
+                "Vodafone: #Gigadownload – der schnellste Download aller Zeiten. Digital Stunt zum Launch des neuen Star Wars, Shortlist Digitalaward 2020",
+                "TikTok (New Business): Pitch- und anschließend Project-Lead der Christmas/New Year Kampagne 2018",
+                "Carlsberg (New Business): Globale Launch-Kampagne des Soft Brew Barley Bros."
             ]
         }
     ],
