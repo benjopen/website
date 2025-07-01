@@ -18,8 +18,8 @@ export const Experience: FC = () => {
                     <AccordionItem p="0" border="0" mb="4" key={`panel-${exp.company}`}>
                         <Expandable
                             id={exp.id}
-                            title={exp.company}
-                            subTitle={exp.position}
+                            title={exp.position}
+                            subTitle={exp.company}
                             date={exp.duration}
                             content={exp.description}
                             idx={idx}
