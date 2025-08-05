@@ -1,5 +1,3 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
+Ich bin eine erfahrene Führungskraft mit über 15 Jahren Expertise in der Entwicklung und Umsetzung innovativer Marketing- und Kommunikationsstrategien. Ich kombiniere unternehmerisches Denken, strategische Weitsicht und hands-on Mentalität, um Teams zu inspirieren und Organisationen voranzubringen ⚡️
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
-
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+Meine Karriere umfasst Führungspositionen in einer der Top-3-Kreativagenturen Deutschlands, wo ich komplexe 360°-Kampagnen für globale Marken erfolgreich umgesetzt habe. Mit einer einzigartigen Mischung aus Kreativität, strategischem Denken und operativer Exzellenz setze ich nachhaltige Erfolge in dynamischen Märkten um.

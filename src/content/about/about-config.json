@@ -35,27 +35,17 @@
         },
         {
             "id": "heimattbwa",
-            "company": "HeimatTBWA",
-            "position": "Head of Content & Social Media",
-            "duration": "05/2023 – 01/2025",
-            "description": [
-                "Bündelung des gesamten Social Media Angebots an beiden Agentur-Standorten Berlin und Düsseldorf nach dem Zusammenschluss von Heimat Berlin und TBWA Düsseldorf.",
-                "Leitung und Ausbau des Social Media Teams, nun wieder unter dem neuen Agenturnamen HeimatTBWA. Als erstes Team arbeiten wir standortübergreifend.",
-                "Teil der AI Taskforce der TBWA-Gruppe in Deutschland, enge Kooperation mit allen Schwesteragenturen innerhalb der deutschen Gruppe, Integration in das internationale Production und auch Social Media Collective der TBWA Worldwide.",
-                "Kunden & Projekte: WC Frisch (TikTok), HORNBACH, Trolli, Consorsbank, Bonduelle, DEVK, TÜV Rheinland, Perwoll, Schauma, ZEIN pharma, Nissan, GRÜNE Bundesverband (Europawahl)",
-                "Positionierung unseres Social Media first Angebots innerhalb der total Brand Experience. Aufbau von passenden Social Media Produkten im Rahmen der NB-Gewinnung.",
-                "Unsere Services: Social Media Strategie, Always-On-Content, Content Production im eigenen Studio, Social Unit / Second Unit, Paid Social & Social Performance, Social Ads, Aufbau eigener Creator / Adfluencer, Influencer Marketing & Management, (proactive) Community Management."
-            ]
-        },
-        {
-            "id": "tbwadus3",
-            "company": "TBWA Düsseldorf",
+            "company": "TBWA Düsseldorf und HeimatTBWA",
             "position": "Head of Content & Social Media",
             "duration": "11/2022 – 01/2025",
             "description": [
-                "Gründung und Leitung einer eigenen Social Media Unit „BOLT – vertical content driven by culture“ unter dem Dach von TBWA Düsseldorf"
+                "Bündelung des gesamten Social Media Angebots an beiden Agentur-Standorten Berlin und Düsseldorf nach dem Zusammenschluss von Heimat Berlin und TBWA Düsseldorf unter meiner Leitung.",
+                "Teil der AI Taskforce der TBWA-Gruppe in Deutschland, enge Kooperation mit allen Schwesteragenturen innerhalb der deutschen Gruppe, Integration in das internationale Production und auch Social Media Collective der TBWA Worldwide.",
+                "Kunden & Projekte: WC Frisch (TikTok), HORNBACH, Trolli, Consorsbank, Bonduelle, DEVK, TÜV Rheinland, Perwoll, Schauma, ZEIN pharma, Nissan, GRÜNE Bundesverband (Europawahl)",
+                "Unsere Services: Social Media Strategie, Always-On-Content, Content Production im eigenen Studio, Social Unit / Second Unit, Paid Social & Social Performance, Social Ads, Aufbau eigener Creator / Adfluencer, Influencer Marketing & Management, (proactive) Community Management."
             ]
         },
+
         {
             "id": "tbwadus2",
             "company": "TBWA Düsseldorf",
@@ -75,12 +65,64 @@
             "position": "Manager Digital Communications & Data Analytics",
             "duration": "04/2018 – 02/2022",
             "description": [
-                "Unitymedia: Digitale Strategie, Social, Content Marketing, aber auch klassische 360° Kampagnen von Print bis Radio, Live- & Messe-Strategie und Brand/Tonality Book. Identifikation von kulturellen Trends & AdHoc Content und dafür die Etablierung einer redaktionellen Arbeitsweise zw. Agentur und Kunden. Konzept, Launch und Lead des Content Hubs „Universe“ inkl. SEO. Launch des Giphy Channels mit über 10 Millionen Views, Setup und Launch von DCO.",
-                "Vodafone: #Gigadownload – der schnellste Download aller Zeiten. Digital Stunt zum Launch des neuen Star Wars, Shortlist Digitalaward 2020",
-                "TikTok (New Business): Pitch- und anschließend Project-Lead der Christmas/New Year Kampagne 2018",
-                "Carlsberg (New Business): Globale Launch-Kampagne des Soft Brew Barley Bros."
+                "Beginn meiner Agenturzeit auf dem Kunden Unitymedia: Digitale Strategie, Social, Content Marketing, aber auch klassische 360° Kampagnen von Print bis Radio, Live- & Messe-Strategie und Brand/Tonality Book. Identifikation von kulturellen Trends & AdHoc Content und dafür die Etablierung einer redaktionellen Arbeitsweise zw. Agentur und Kunden. Konzept, Launch und Lead des Content Hubs „Universe“ inkl. SEO. Launch des Giphy Channels mit über 10 Millionen Views, Setup und Launch von DCO.",
+                "Vodafone: #Gigadownload – der schnellste Download aller Zeiten. Digital Stunt zum Launch des neuen Star Wars, Shortlist Digitalaward 2020"
+            ]
+        },
+
+        {
+            "id": "grn3",
+            "company": "GRÜNE NRW",
+            "position": "Wahlkampfmanager",
+            "duration": "06/2016 – 03/2018",
+            "description": [
+                "Als Wahlkampfmanager habe ich die ganzheitliche Umsetzung der Kampagne verantwortet: Online, Print, Straße, Marktplatz, Kino, PR, Guerilla-Marketing, Mediaplanung, Teamkoordination, Projektmanagement, Budgetkontrolle."
+            ]
+        },
+
+        {
+            "id": "grn2",
+            "company": "GRÜNE NRW",
+            "position": "Koordinator Strategieprozess 2017",
+            "duration": "11/2014 – 05/2016",
+            "description": [
+                "Entwicklung einer umfassende Strategie zur Vorbereitung der Landtagswahlen 2017. Strategieberatung der Partei und Grünen Minister, Agenturauswahl + Verhandlungen, Marktforschung."
+            ]
+        },
+
+        {
+            "id": "grn1",
+            "company": "GRÜNE NRW",
+            "position": "Referent für Online-Kommunikation",
+            "duration": "10/2011 – 03/2018",
+            "description": [
+                "Aufbau und Führung der digitalen Kommunikation, wodurch die Grünen NRW zu den Top-3 Landesverbänden in der Online-Reichweite aufstiegen. Implementierte eine ‚Social First‘-Strategie, die als Modell für andere Bundesländer und NGOs diente.",
+"Innerhalb der Partei habe ich den Wandel von „Pressemitteilung first“ zu „Social first“ getrieben, dabei auch den Bundesverband beraten und Deutschlandweit Mitglieder geschult - auch solche von Amnesty, Brot für die Welt, Greenpeace."
+            ]
+        },
+
+        {
+            "id": "grn0",
+            "company": "GRÜNE NRW",
+            "position": "Webmaster",
+            "duration": "09/2006 – 09/2011",
+            "description": [
+                "Entwicklung und Implementierung eines neuen Webdesigns und CMS, was in über 200 Unterorganisationen bundesweit genutzt wurde. Dies führte zu einer signifikanten Verbesserung der Benutzerfreundlichkeit und der Interaktionsraten."
+            ]
+        },
+
+        {
+            "id": "kre8tiv",
+            "company": "Selbstständig",
+            "position": "kre8tiv - web development",
+            "duration": "2002 – 2011",
+            "description": [
+                "Gründung und erfolgreiche Führung eines Webdesign- und Hosting-Unternehmens, das ein Portfolio von über 500 Domains betreute, darunter hochrangige politische Organisationen und kulturelle Institutionen. Verkauf des Unternehmens 2017. Hier wurde unternehmerisches Denken zu meiner DNA.",
+"Kunden aus dem politischen Umfeld (GRÜNE Bundesverband, Britta Haßelmann, Konstantin von Notz), aber auch das Europäische Übersetzer-Kollegium oder Prof. Dr. Dr. Korte."
             ]
         }
+
+
     ],
     "skills": [
         {
